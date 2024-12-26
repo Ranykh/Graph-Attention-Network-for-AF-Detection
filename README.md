@@ -18,14 +18,6 @@ Atrial fibrillation (AF) is the most prevalent cardiac arrhythmia and a leading 
 
 ---
 
-## Repository Structure
-
-- **`/code`:** Python scripts and Jupyter notebooks for model implementation and data preprocessing.
-- **`/data`:** Preprocessed datasets and adjacency matrices based on WMI.
-- **`/results`:** Evaluation metrics, performance visualizations, and statistical analysis outputs.
-- **`/docs`:** Detailed documentation and research paper.
-
----
 
 ## Features
 
