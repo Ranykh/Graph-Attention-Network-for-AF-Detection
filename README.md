@@ -26,21 +26,7 @@ Atrial fibrillation (AF) is the most prevalent cardiac arrhythmia and a leading 
 - **Region-Specific Analysis:** Techniques for addressing geographic variability in ECG datasets.
 - **Validation Methods:** Cross-region validation, statistical testing, and dimensionality reduction using t-SNE.
 
----
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.8 or later
-- Required libraries: TensorFlow/PyTorch, NumPy, SciPy, Scikit-learn, Matplotlib, and NetworkX.
-
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/GAT_AF_Detection.git
-   cd GAT_AF_Detection
+n
 # Citation
 If you use this repository in your work, please cite:
 Khirbawi, R. (2024). Graph Attention Networks for Atrial Fibrillation Detection: Leveraging Inter-Lead Dependencies and Geographic Variations in ECG Signals.
