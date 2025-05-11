@@ -1,7 +1,5 @@
 
 
-# Graph Attention Networks for Atrial Fibrillation Detection
-
 This repository hosts the resources for the project **"Graph Attention Networks for Atrial Fibrillation Detection."** This project leverages advanced Graph Neural Network architectures to analyze 12-lead ECG data, focusing on inter-lead spatial dependencies and geographic variations to enhance arrhythmia detection, specifically atrial fibrillation.
 
 ---
