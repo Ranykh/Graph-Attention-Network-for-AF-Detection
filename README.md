@@ -11,7 +11,7 @@ This repository hosts the resources for the project **"Graph Attention Networks 
 
 ##  Overview
 
-Atrial fibrillation (AF) is the most common cardiac arrhythmia and a leading cause of stroke and heart failure worldwide. In this project, we propose a deep learning framework that leverages **Graph Attention Networks (GATs)** to detect AF from 12-lead Electrocardiogram (ECG) recordings. Unlike traditional models, our method captures **inter-lead spatial dependencies** and **geographic variations**, significantly improving the model’s diagnostic capabilities.
+Atrial fibrillation (AF) is the most common cardiac arrhythmia and a leading cause of stroke and heart failure worldwide. In this project, i propose a deep learning framework that leverages **Graph Attention Networks (GATs)** to detect AF from 12-lead Electrocardiogram (ECG) recordings. Unlike traditional models, my method captures **inter-lead spatial dependencies** and **geographic variations**, significantly improving the model’s diagnostic capabilities.
 
 This project was conducted using datasets from three geographically distinct populations (China, Germany, and the US) and integrates advanced statistical methods and visualizations to analyze cross-regional generalization.
 
