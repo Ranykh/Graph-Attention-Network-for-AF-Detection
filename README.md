@@ -13,6 +13,10 @@ Atrial fibrillation (AF) is the most common cardiac arrhythmia and a leading cau
 
 This project was conducted using datasets from three geographically distinct populations (China, Germany, and the US) and integrates advanced statistical methods and visualizations to analyze cross-regional generalization.
 
+<p align="center">
+  <a href="GAT_for_AF_Detection_in_ECG_Signals.pdf"><b>📄 Read the Full Report (PDF)</b></a>
+</p>
+
 ---
 
 ## Deep Learning & GATs: A Brief Introduction
