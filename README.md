@@ -83,4 +83,4 @@ Each contains 12-lead ECG recordings labeled for arrhythmias, particularly AF. W
 
 ## Citation
 If you use this repository in your work, please cite:
-Khirbawi, R. (2024). Graph Attention Networks for Atrial Fibrillation Detection: Leveraging Inter-Lead Dependencies and Geographic Variations in ECG Signals.
+Harbawi, R. (2024). Graph Attention Networks for Atrial Fibrillation Detection: Leveraging Inter-Lead Dependencies and Geographic Variations in ECG Signals.
